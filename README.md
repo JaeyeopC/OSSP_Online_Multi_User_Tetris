@@ -50,9 +50,7 @@ https://github.com/PSNB92/Tetris
 
 ## Academic Advisor
 
-Prof. Dong Ho Kim
-Associate Professor, Software Education Institute  
-Dongguk University  
+Prof. Dong Ho Kim  
 https://pure.dongguk.edu/en/persons/dong-ho-kim/  
 
 ---
