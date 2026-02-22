@@ -1,4 +1,4 @@
-# 🎮 Sophist Tetris — Enhanced Multiplayer Tetris in Java
+# About
 
 This project is an extended version of the classic Tetris game designed to provide improved user experience (UX), competitive gameplay, and multiplayer interaction. Built in Java, the game expands a traditional single-player Tetris into a feature-rich multiplayer system with items, multiple game modes, sound effects, and multi-window gameplay.
 
@@ -6,7 +6,7 @@ This work was developed as part of the **2017 Open Source Software Programming (
 
 ---
 
-## 📚 Original Source Code
+## Original Source Code
 
 This project is based on and extends the following open-source repository:
 
