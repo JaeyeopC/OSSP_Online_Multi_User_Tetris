@@ -10,7 +10,7 @@ This work was developed as part of the **2017 Open Source Software Programming (
 
 This project is based on and extends the following open-source repository:
 
-https://github.com/CSID-DGU/OSSP_Online_Multi_User_Tetris?tab=readme-ov-file
+https://github.com/PSNB92/Tetris
 
 ---
 
